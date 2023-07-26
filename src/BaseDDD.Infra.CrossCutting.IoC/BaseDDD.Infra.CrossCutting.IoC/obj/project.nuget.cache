@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/u6+IMegi3Zs/e2c4UWJGV9L+5+EEYE9LR0ChddGZP68jRjtHgAb8DGhkUJG9WDDnCdZ+vPUX1gEdw8sbS7DVA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\BaseDDD\\BaseDDD\\src\\BaseDDD.Infra.CrossCutting.IoC\\BaseDDD.Infra.CrossCutting.IoC\\BaseDDD.Infra.CrossCutting.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\speed\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\speed\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\speed\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\speed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

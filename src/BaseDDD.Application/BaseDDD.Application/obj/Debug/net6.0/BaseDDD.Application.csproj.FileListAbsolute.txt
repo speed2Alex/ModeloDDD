@@ -1,0 +1,5 @@
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Application\BaseDDD.Application\obj\Debug\net6.0\BaseDDD.Application.csproj.AssemblyReference.cache
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Application\BaseDDD.Application\obj\Debug\net6.0\BaseDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Application\BaseDDD.Application\obj\Debug\net6.0\BaseDDD.Application.AssemblyInfoInputs.cache
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Application\BaseDDD.Application\obj\Debug\net6.0\BaseDDD.Application.AssemblyInfo.cs
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Application\BaseDDD.Application\obj\Debug\net6.0\BaseDDD.Application.csproj.CoreCompileInputs.cache

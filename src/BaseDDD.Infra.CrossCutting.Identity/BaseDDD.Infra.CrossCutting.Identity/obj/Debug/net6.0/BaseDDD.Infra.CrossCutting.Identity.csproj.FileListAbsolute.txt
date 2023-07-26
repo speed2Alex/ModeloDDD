@@ -1,0 +1,5 @@
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Infra.CrossCutting.Identity\BaseDDD.Infra.CrossCutting.Identity\obj\Debug\net6.0\BaseDDD.Infra.CrossCutting.Identity.csproj.AssemblyReference.cache
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Infra.CrossCutting.Identity\BaseDDD.Infra.CrossCutting.Identity\obj\Debug\net6.0\BaseDDD.Infra.CrossCutting.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Infra.CrossCutting.Identity\BaseDDD.Infra.CrossCutting.Identity\obj\Debug\net6.0\BaseDDD.Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Infra.CrossCutting.Identity\BaseDDD.Infra.CrossCutting.Identity\obj\Debug\net6.0\BaseDDD.Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Infra.CrossCutting.Identity\BaseDDD.Infra.CrossCutting.Identity\obj\Debug\net6.0\BaseDDD.Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache

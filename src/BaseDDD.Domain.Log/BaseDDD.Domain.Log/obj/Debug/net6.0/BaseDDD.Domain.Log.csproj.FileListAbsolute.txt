@@ -1,0 +1,12 @@
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain.Log\BaseDDD.Domain.Log\bin\Debug\net6.0\BaseDDD.Domain.Log.deps.json
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain.Log\BaseDDD.Domain.Log\bin\Debug\net6.0\BaseDDD.Domain.Log.dll
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain.Log\BaseDDD.Domain.Log\bin\Debug\net6.0\BaseDDD.Domain.Log.pdb
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain.Log\BaseDDD.Domain.Log\obj\Debug\net6.0\BaseDDD.Domain.Log.csproj.AssemblyReference.cache
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain.Log\BaseDDD.Domain.Log\obj\Debug\net6.0\BaseDDD.Domain.Log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain.Log\BaseDDD.Domain.Log\obj\Debug\net6.0\BaseDDD.Domain.Log.AssemblyInfoInputs.cache
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain.Log\BaseDDD.Domain.Log\obj\Debug\net6.0\BaseDDD.Domain.Log.AssemblyInfo.cs
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain.Log\BaseDDD.Domain.Log\obj\Debug\net6.0\BaseDDD.Domain.Log.csproj.CoreCompileInputs.cache
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain.Log\BaseDDD.Domain.Log\obj\Debug\net6.0\BaseDDD.Domain.Log.dll
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain.Log\BaseDDD.Domain.Log\obj\Debug\net6.0\refint\BaseDDD.Domain.Log.dll
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain.Log\BaseDDD.Domain.Log\obj\Debug\net6.0\BaseDDD.Domain.Log.pdb
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain.Log\BaseDDD.Domain.Log\obj\Debug\net6.0\ref\BaseDDD.Domain.Log.dll

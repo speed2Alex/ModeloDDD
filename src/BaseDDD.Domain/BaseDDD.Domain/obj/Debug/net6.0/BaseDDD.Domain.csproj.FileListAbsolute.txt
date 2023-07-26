@@ -1,0 +1,15 @@
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\bin\Debug\net6.0\BaseDDD.Domain.deps.json
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\bin\Debug\net6.0\BaseDDD.Domain.dll
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\bin\Debug\net6.0\BaseDDD.Domain.pdb
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\obj\Debug\net6.0\BaseDDD.Domain.csproj.AssemblyReference.cache
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\obj\Debug\net6.0\BaseDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\obj\Debug\net6.0\BaseDDD.Domain.AssemblyInfoInputs.cache
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\obj\Debug\net6.0\BaseDDD.Domain.AssemblyInfo.cs
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\obj\Debug\net6.0\BaseDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\obj\Debug\net6.0\BaseDDD.Domain.dll
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\obj\Debug\net6.0\refint\BaseDDD.Domain.dll
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\obj\Debug\net6.0\BaseDDD.Domain.pdb
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\obj\Debug\net6.0\ref\BaseDDD.Domain.dll
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\bin\Debug\net6.0\BaseDDD.Domain.Log.dll
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\bin\Debug\net6.0\BaseDDD.Domain.Log.pdb
+C:\Projetos\BaseDDD\BaseDDD\src\BaseDDD.Domain\BaseDDD.Domain\obj\Debug\net6.0\BaseDDD.Domain.csproj.CopyComplete
